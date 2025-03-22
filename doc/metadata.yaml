@@ -1,14 +1,14 @@
-description: Template repository
+description: STM32 in TQFP64 packages
 github_branch: MODUL01A
 github_branches:
 - MODUL01A
-github_repo: MODUL01
-github_url: https://github.com/mlab-modules/MODUL01
+github_description: STM32 in TQFP64 packages
+github_repo: STM32TQ6401
+github_url: https://github.com/mlab-modules/STM32TQ6401
 homepage: false
 images: []
 issues: 2
 mark: 50
-tags:
-- mlab
-- mlab-module
-title: MODUL01
+tags: []
+title: STM32TQ6401
+updated: '2025-03-22T20:38:05.257681+00:00'
