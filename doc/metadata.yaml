@@ -1,5 +1,5 @@
 description: STM32 in TQFP64 packages
-github_branch: MODUL01A
+github_branch: STM32TQ6401A
 github_branches:
 - MODUL01A
 github_description: STM32 in TQFP64 packages
@@ -11,4 +11,4 @@ issues: 2
 mark: 50
 tags: []
 title: STM32TQ6401
-updated: '2025-03-22T20:38:05.257681+00:00'
+updated: '2025-03-22T20:41:44.979703+00:00'
