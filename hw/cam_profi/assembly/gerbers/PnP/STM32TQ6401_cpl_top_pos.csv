@@ -1,0 +1,15 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+"BT1","2032","BatteryHolder_Renata_SMTU2032",26.2890,51.4350,135.0000,top
+"J1","JUMP_02x16","PinHeader_2x16_P2.54mm_Vertical",44.4500,16.5100,-90.0000,top
+"J2","JUMP_02x16","PinHeader_2x16_P2.54mm_Vertical",6.3500,24.1300,180.0000,top
+"J3","JUMP_02x16","PinHeader_2x16_P2.54mm_Vertical",6.3500,71.1200,90.0000,top
+"J4","JUMP_02x16","PinHeader_2x16_P2.54mm_Vertical",44.4450,62.2300,0.0000,top
+"J5","JUMP_2x3","PinHeader_2x03_P2.54mm_Vertical",21.8900,79.7900,180.0000,top
+"J7","JUMP_01x02","PinHeader_1x02_P2.54mm_Vertical",10.3500,87.4950,0.0000,top
+"J8","JUMP_01x02","PinHeader_1x02_P2.54mm_Vertical",26.1000,80.9950,0.0000,top
+"J9","JUMP_01x06","PinHeader_1x06_P2.54mm_Vertical",26.6700,2.5400,90.0000,top
+"J10","JUMP_01x02","PinHeader_1x02_P2.54mm_Vertical",46.9900,10.1600,-90.0000,top
+"SW1","SW_Push","SW_PUSH_6mm",10.4500,1.8300,90.0000,top
+"SW2","SW_Push","SW_PUSH_6mm",18.0700,1.8300,90.0000,top
+"Y1","32768Hz","Crystal_AT310_D3.0mm_L10.0mm_Horizontal",30.5500,34.0360,-90.0000,top
+"Y2","16MHz","Crystal_HC49-U_Vertical",32.8200,27.1780,180.0000,top
