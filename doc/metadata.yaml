@@ -1,7 +1,6 @@
 description: STM32 in TQFP64 packages
 github_branch: STM32TQ6401A
 github_branches:
-- MODUL01A
 github_description: STM32 in TQFP64 packages
 github_repo: STM32TQ6401
 github_url: https://github.com/mlab-modules/STM32TQ6401
