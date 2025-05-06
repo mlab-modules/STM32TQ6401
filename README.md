@@ -2,6 +2,9 @@
 
 The STM32TQ6401 is a universal microcontroller module designed for STM32 MCUs in TQFP64 packages. It offers a flexible platform for both development and deployment, with support for a wide range of STM32 devices and power configurations.
 
+![STM32TQ6401 module bottom](/doc/gen/STM32TQ6401-bottom.png)
+![STM32TQ6401 module top](/doc/gen/STM32TQ6401-top.png)
+
 ## Features
 
 - Compatible with most STM32 MCUs in TQFP64 package (see note in schematics for exceptions)
@@ -54,6 +57,6 @@ Refer to MCU datasheets and the module schematic for proper configuration.
 
 ## Schematic
 
-For detailed pinout, power configuration, and compatibility, refer to the [STM32TQ6401A schematic](STM32TQ6401A%20Schema.pdf).
+For detailed pinout, power configuration, and compatibility, refer to the [STM32TQ6401A schematic](/doc/gen/STM32TQ6401-schematic.pdf).
 
 
