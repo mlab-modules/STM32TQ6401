@@ -5,6 +5,7 @@ github_description: STM32 in TQFP64 packages
 github_repo: STM32TQ6401
 github_url: https://github.com/mlab-modules/STM32TQ6401
 homepage: false
+image_title: doc/gen/img/STM32TQ6401-top.png
 images:
 - hw/CAM_DOC/STM32TQ6401A_BOT.png
 - hw/CAM_DOC/STM32TQ6401A_TOP.png
@@ -19,6 +20,7 @@ images:
 - doc/gen/img/STM32TQ6401-bottom.svg
 issues: 2
 mark: 50
+status: 2
 mod_ibom: hw/cam_profi/STM32TQ6401-ibom.html
 mod_scheme: doc/gen/STM32TQ6401-schematic.pdf
 tags: []
