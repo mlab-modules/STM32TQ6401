@@ -8,10 +8,19 @@ homepage: false
 images:
 - hw/CAM_DOC/STM32TQ6401A_BOT.png
 - hw/CAM_DOC/STM32TQ6401A_TOP.png
+- doc/gen/img/STM32TQ6401-bottom.png
+- doc/gen/img/STM32TQ6401-top.png
+- hw/cam_profi/assembly/STM32TQ6401-assembly_page_02.svg
+- hw/cam_profi/assembly/STM32TQ6401-assembly_page_01.svg
 - hw/CAM_DOC/STM32TQ6401A_Colored-BOT.svg
 - hw/CAM_DOC/STM32TQ6401A_Colored-TOP.svg
+- doc/gen/STM32TQ6401-schematic.svg
+- doc/gen/img/STM32TQ6401-top.svg
+- doc/gen/img/STM32TQ6401-bottom.svg
 issues: 2
 mark: 50
+mod_ibom: hw/cam_profi/STM32TQ6401-ibom.html
+mod_scheme: doc/gen/STM32TQ6401-schematic.pdf
 tags: []
 title: STM32TQ6401
-updated: '2025-05-06T10:58:10.810259+00:00'
+updated: '2025-05-06T11:00:15.683419+00:00'
