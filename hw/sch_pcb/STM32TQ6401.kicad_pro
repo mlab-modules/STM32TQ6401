@@ -500,7 +500,7 @@
       "svg": "",
       "vrml": ""
     },
-    "page_layout_descr_file": "KiCAD_LIB/MihoMlabSheet.kicad_wks"
+    "page_layout_descr_file": "../../doc/assets/templates/KiCAD/page_layout.kicad_wks"
   },
   "schematic": {
     "annotate_start_num": 0,
@@ -614,7 +614,7 @@
       "version": 1
     },
     "net_format_name": "",
-    "page_layout_descr_file": "KiCAD_LIB\\MihoMlabSheet.kicad_wks",
+    "page_layout_descr_file": "../../doc/assets/templates/KiCAD/page_layout.kicad_wks",
     "plot_directory": "CAM_DOC",
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
